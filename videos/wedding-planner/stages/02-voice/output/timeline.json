@@ -1,0 +1,412 @@
+{
+ "rate": 22050,
+ "duration": 128.013,
+ "blocks": [
+  {
+   "id": "01",
+   "cam": "B",
+   "who": "dana",
+   "start": 0.0,
+   "say": "You've been planning this wedding for three years.",
+   "speech_start": 0.3,
+   "speech_end": 2.593,
+   "end": 3.093,
+   "sfx": []
+  },
+  {
+   "id": "02",
+   "cam": "A",
+   "who": "theo",
+   "start": 3.093,
+   "say": "And every option is still available. I'm very pleased.",
+   "speech_start": 3.393,
+   "speech_end": 6.591,
+   "end": 7.291,
+   "sfx": []
+  },
+  {
+   "id": "03",
+   "cam": "B",
+   "who": "dana",
+   "start": 7.291,
+   "say": "Have they chosen a date?",
+   "speech_start": 7.591,
+   "speech_end": 8.798,
+   "end": 9.298,
+   "sfx": []
+  },
+  {
+   "id": "04",
+   "cam": "A",
+   "who": "theo",
+   "start": 9.298,
+   "say": "They liked June, but choosing June would eliminate eleven excellent months.",
+   "speech_start": 9.598,
+   "speech_end": 14.549,
+   "end": 15.049,
+   "sfx": []
+  },
+  {
+   "id": "05",
+   "cam": "B",
+   "who": "dana",
+   "start": 15.049,
+   "say": "Usually that's what choosing does.",
+   "speech_start": 15.349,
+   "speech_end": 17.291,
+   "end": 17.891,
+   "sfx": []
+  },
+  {
+   "id": "06",
+   "cam": "A",
+   "who": "theo",
+   "start": 17.891,
+   "say": "Exactly. I protect couples from that sort of loss.",
+   "speech_start": 18.191,
+   "speech_end": 21.713,
+   "end": 22.213,
+   "sfx": []
+  },
+  {
+   "id": "07",
+   "cam": "B",
+   "who": "dana",
+   "start": 22.213,
+   "say": "Have they booked a venue?",
+   "speech_start": 22.513,
+   "speech_end": 23.838,
+   "end": 24.338,
+   "sfx": []
+  },
+  {
+   "id": "08",
+   "cam": "A",
+   "who": "theo",
+   "start": 24.338,
+   "say": "They have a shortlist of forty-six.",
+   "speech_start": 24.638,
+   "speech_end": 26.741,
+   "end": 27.341,
+   "sfx": []
+  },
+  {
+   "id": "09",
+   "cam": "B",
+   "who": "dana",
+   "start": 27.341,
+   "say": "That sounds like a long list.",
+   "speech_start": 27.641,
+   "speech_end": 29.268,
+   "end": 29.768,
+   "sfx": []
+  },
+  {
+   "id": "10",
+   "cam": "A",
+   "who": "theo",
+   "start": 29.768,
+   "say": "It was eighty. We've made some brave decisions.",
+   "speech_start": 30.068,
+   "speech_end": 33.232,
+   "end": 33.732,
+   "sfx": []
+  },
+  {
+   "id": "11",
+   "cam": "B",
+   "who": "dana",
+   "start": 33.732,
+   "say": "Such as?",
+   "speech_start": 34.232,
+   "speech_end": 35.008,
+   "end": 35.608,
+   "sfx": []
+  },
+  {
+   "id": "12",
+   "cam": "A",
+   "who": "theo",
+   "start": 35.608,
+   "say": "Removing venues that had already closed.",
+   "speech_start": 35.908,
+   "speech_end": 38.284,
+   "end": 39.084,
+   "sfx": []
+  },
+  {
+   "id": "13",
+   "cam": "B",
+   "who": "-",
+   "start": 39.084,
+   "end": 41.584,
+   "sfx": []
+  },
+  {
+   "id": "14",
+   "cam": "B",
+   "who": "dana",
+   "start": 41.584,
+   "say": "What happens when the couple agree on something?",
+   "speech_start": 41.884,
+   "speech_end": 44.382,
+   "end": 44.882,
+   "sfx": []
+  },
+  {
+   "id": "15",
+   "cam": "A",
+   "who": "theo",
+   "start": 44.882,
+   "say": "I ask whether they've considered the alternatives.",
+   "speech_start": 45.182,
+   "speech_end": 47.726,
+   "end": 48.226,
+   "sfx": []
+  },
+  {
+   "id": "16",
+   "cam": "B",
+   "who": "dana",
+   "start": 48.226,
+   "say": "And then?",
+   "speech_start": 48.626,
+   "speech_end": 49.3,
+   "end": 49.8,
+   "sfx": []
+  },
+  {
+   "id": "17",
+   "cam": "A",
+   "who": "theo",
+   "start": 49.8,
+   "say": "They become less certain. That's where my expertise really helps.",
+   "speech_start": 50.1,
+   "speech_end": 53.986,
+   "end": 54.486,
+   "sfx": []
+  },
+  {
+   "id": "18",
+   "cam": "B",
+   "who": "dana",
+   "start": 54.486,
+   "say": "Surely they want to get married.",
+   "speech_start": 55.086,
+   "speech_end": 56.871,
+   "end": 57.371,
+   "sfx": []
+  },
+  {
+   "id": "19",
+   "cam": "A",
+   "who": "theo",
+   "start": 57.371,
+   "say": "Absolutely. It's their favourite possibility.",
+   "speech_start": 57.671,
+   "speech_end": 60.515,
+   "end": 61.315,
+   "sfx": []
+  },
+  {
+   "id": "20",
+   "cam": "B",
+   "who": "dana",
+   "start": 61.315,
+   "say": "What are you working on this week?",
+   "speech_start": 61.615,
+   "speech_end": 63.126,
+   "end": 63.626,
+   "sfx": []
+  },
+  {
+   "id": "21",
+   "cam": "A",
+   "who": "theo",
+   "start": 63.626,
+   "say": "The vows. We're concerned about the word \"do.\"",
+   "speech_start": 63.926,
+   "speech_end": 66.897,
+   "end": 67.397,
+   "sfx": []
+  },
+  {
+   "id": "22",
+   "cam": "B",
+   "who": "dana",
+   "start": 67.397,
+   "say": "Because it's a commitment?",
+   "speech_start": 67.697,
+   "speech_end": 69.087,
+   "end": 69.587,
+   "sfx": []
+  },
+  {
+   "id": "23",
+   "cam": "A",
+   "who": "theo",
+   "start": 69.587,
+   "say": "Because it gives them very little room to reconsider.",
+   "speech_start": 69.887,
+   "speech_end": 72.505,
+   "end": 73.305,
+   "sfx": []
+  },
+  {
+   "id": "24",
+   "cam": "B",
+   "who": "-",
+   "start": 73.305,
+   "end": 75.305,
+   "sfx": []
+  },
+  {
+   "id": "25",
+   "cam": "B",
+   "who": "dana",
+   "start": 75.305,
+   "say": "At what point does all this planning become a wedding?",
+   "speech_start": 75.605,
+   "speech_end": 78.438,
+   "end": 78.938,
+   "sfx": []
+  },
+  {
+   "id": "26",
+   "cam": "A",
+   "who": "theo",
+   "start": 78.938,
+   "say": "The moment they stop needing me. Naturally, I want them fully prepared.",
+   "speech_start": 79.238,
+   "speech_end": 83.419,
+   "end": 83.919,
+   "sfx": []
+  },
+  {
+   "id": "27",
+   "cam": "B",
+   "who": "dana",
+   "start": 83.919,
+   "say": "What are you calling the package?",
+   "speech_start": 84.719,
+   "speech_end": 86.405,
+   "end": 86.905,
+   "sfx": []
+  },
+  {
+   "id": "28",
+   "cam": "A",
+   "who": "theo",
+   "start": 86.905,
+   "say": "Uncommitted bliss.",
+   "speech_start": 87.805,
+   "speech_end": 88.979,
+   "end": 90.179,
+   "sfx": []
+  },
+  {
+   "id": "29",
+   "cam": "B",
+   "who": "dana",
+   "start": 90.179,
+   "say": "And they're happy with the package?",
+   "speech_start": 90.579,
+   "speech_end": 92.4,
+   "end": 92.9,
+   "sfx": []
+  },
+  {
+   "id": "30",
+   "cam": "A",
+   "who": "theo",
+   "start": 92.9,
+   "say": "Very. They've both started going on dates with other people.",
+   "speech_start": 93.2,
+   "speech_end": 96.687,
+   "end": 97.587,
+   "sfx": []
+  },
+  {
+   "id": "31",
+   "cam": "B",
+   "who": "dana",
+   "start": 97.587,
+   "say": "That sounds like they've broken up.",
+   "speech_start": 98.187,
+   "speech_end": 100.117,
+   "end": 100.617,
+   "sfx": []
+  },
+  {
+   "id": "32",
+   "cam": "A",
+   "who": "theo",
+   "start": 100.617,
+   "say": "They still come to every meeting. We're just being thorough.",
+   "speech_start": 100.917,
+   "speech_end": 104.608,
+   "end": 105.108,
+   "sfx": []
+  },
+  {
+   "id": "33",
+   "cam": "B",
+   "who": "dana",
+   "start": 105.108,
+   "say": "About whether they want to marry each other?",
+   "speech_start": 105.608,
+   "speech_end": 107.678,
+   "end": 108.178,
+   "sfx": []
+  },
+  {
+   "id": "34",
+   "cam": "A",
+   "who": "theo",
+   "start": 108.178,
+   "say": "We compared eighty venues. It seemed odd to stop at the first fianc\u00e9.",
+   "speech_start": 108.478,
+   "speech_end": 113.114,
+   "end": 113.914,
+   "sfx": []
+  },
+  {
+   "id": "35",
+   "cam": "B",
+   "who": "-",
+   "start": 113.914,
+   "end": 115.714,
+   "sfx": []
+  },
+  {
+   "id": "36",
+   "cam": "B",
+   "who": "dana",
+   "start": 115.714,
+   "say": "What do you call that part of the service?",
+   "speech_start": 116.214,
+   "speech_end": 118.258,
+   "end": 118.658,
+   "sfx": []
+  },
+  {
+   "id": "37",
+   "cam": "A",
+   "who": "theo",
+   "start": 118.658,
+   "say": "Open auditions.",
+   "speech_start": 119.558,
+   "speech_end": 120.513,
+   "end": 123.013,
+   "sfx": []
+  },
+  {
+   "id": "38",
+   "cam": "C",
+   "who": "-",
+   "start": 123.013,
+   "end": 128.013,
+   "sfx": []
+  }
+ ]
+}

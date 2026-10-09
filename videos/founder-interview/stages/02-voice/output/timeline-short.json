@@ -1,0 +1,364 @@
+{
+ "rate": 22050,
+ "duration": 109.743,
+ "blocks": [
+  {
+   "id": "01",
+   "cam": "A",
+   "who": "theo",
+   "start": 0.0,
+   "say": "Can we spend two minutes, eyes closed, meditating before we start?",
+   "speech_start": 0.3,
+   "speech_end": 4.851,
+   "end": 5.651,
+   "sfx": []
+  },
+  {
+   "id": "02",
+   "cam": "B",
+   "who": "dana",
+   "start": 5.651,
+   "say": "Sure. Let's do that.",
+   "speech_start": 6.151,
+   "speech_end": 7.411,
+   "end": 7.911,
+   "sfx": []
+  },
+  {
+   "id": "03",
+   "cam": "C",
+   "who": "-",
+   "start": 7.911,
+   "end": 12.911,
+   "sfx": []
+  },
+  {
+   "id": "04",
+   "cam": "B",
+   "who": "dana",
+   "start": 12.911,
+   "say": "That's a first.",
+   "speech_start": 13.211,
+   "speech_end": 14.093,
+   "end": 14.593,
+   "sfx": []
+  },
+  {
+   "id": "05",
+   "cam": "B",
+   "who": "dana",
+   "start": 14.593,
+   "say": "Does meditation help you think?",
+   "speech_start": 14.893,
+   "speech_end": 16.485,
+   "end": 16.985,
+   "sfx": []
+  },
+  {
+   "id": "06",
+   "cam": "A",
+   "who": "theo",
+   "start": 16.985,
+   "say": "No. The app is still deploying.",
+   "speech_start": 17.285,
+   "speech_end": 19.421,
+   "end": 19.921,
+   "sfx": []
+  },
+  {
+   "id": "07",
+   "cam": "A",
+   "who": "theo",
+   "start": 19.921,
+   "say": "And this way I don't have to watch the logs.",
+   "speech_start": 20.221,
+   "speech_end": 22.768,
+   "end": 23.268,
+   "sfx": []
+  },
+  {
+   "id": "08",
+   "cam": "B",
+   "who": "dana",
+   "start": 23.268,
+   "say": "Do you write code?",
+   "speech_start": 23.568,
+   "speech_end": 24.731,
+   "end": 25.231,
+   "sfx": []
+  },
+  {
+   "id": "09",
+   "cam": "A",
+   "who": "theo",
+   "start": 25.231,
+   "say": "Barely.",
+   "speech_start": 25.531,
+   "speech_end": 26.599,
+   "end": 27.199,
+   "sfx": []
+  },
+  {
+   "id": "10",
+   "cam": "B",
+   "who": "dana",
+   "start": 27.199,
+   "say": "Do you know how to debug it?",
+   "speech_start": 27.499,
+   "speech_end": 28.853,
+   "end": 29.353,
+   "sfx": []
+  },
+  {
+   "id": "11",
+   "cam": "A",
+   "who": "theo",
+   "start": 29.353,
+   "say": "No. I copy the error and paste it back in.",
+   "speech_start": 29.653,
+   "speech_end": 32.393,
+   "end": 32.893,
+   "sfx": []
+  },
+  {
+   "id": "12",
+   "cam": "A",
+   "who": "theo",
+   "start": 32.893,
+   "say": "I know nothing about software.",
+   "speech_start": 33.193,
+   "speech_end": 34.865,
+   "end": 35.365,
+   "sfx": []
+  },
+  {
+   "id": "13",
+   "cam": "B",
+   "who": "dana",
+   "start": 35.365,
+   "say": "You must know something.",
+   "speech_start": 36.165,
+   "speech_end": 37.47,
+   "end": 37.97,
+   "sfx": []
+  },
+  {
+   "id": "14",
+   "cam": "A",
+   "who": "theo",
+   "start": 37.97,
+   "say": "I know what I like and what I don't like.",
+   "speech_start": 38.27,
+   "speech_end": 40.626,
+   "end": 41.126,
+   "sfx": []
+  },
+  {
+   "id": "15",
+   "cam": "A",
+   "who": "theo",
+   "start": 41.126,
+   "say": "And I'm very clear when I type, \"No, not like that.\"",
+   "speech_start": 41.426,
+   "speech_end": 44.621,
+   "end": 45.121,
+   "sfx": []
+  },
+  {
+   "id": "16",
+   "cam": "B",
+   "who": "dana",
+   "start": 45.121,
+   "say": "And you've launched three software companies this way?",
+   "speech_start": 45.421,
+   "speech_end": 48.062,
+   "end": 48.562,
+   "sfx": []
+  },
+  {
+   "id": "17",
+   "cam": "A",
+   "who": "theo",
+   "start": 48.562,
+   "say": "Four. One finished while we were meditating.",
+   "speech_start": 48.862,
+   "speech_end": 51.695,
+   "end": 52.695,
+   "sfx": [
+    {
+     "name": "chime",
+     "at": 48.562
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "cam": "B",
+   "who": "-",
+   "start": 52.695,
+   "end": 55.195,
+   "sfx": []
+  },
+  {
+   "id": "19",
+   "cam": "A",
+   "who": "theo",
+   "start": 55.195,
+   "say": "Nobody has opened it yet. Including me.",
+   "speech_start": 55.495,
+   "speech_end": 58.095,
+   "end": 58.595,
+   "sfx": []
+  },
+  {
+   "id": "20",
+   "cam": "B",
+   "who": "dana",
+   "start": 58.595,
+   "say": "Do you have any tests?",
+   "speech_start": 58.895,
+   "speech_end": 60.136,
+   "end": 60.636,
+   "sfx": []
+  },
+  {
+   "id": "21",
+   "cam": "A",
+   "who": "theo",
+   "start": 60.636,
+   "say": "I don't. The agent deleted them so the build would pass.",
+   "speech_start": 60.936,
+   "speech_end": 64.187,
+   "end": 64.687,
+   "sfx": []
+  },
+  {
+   "id": "22",
+   "cam": "B",
+   "who": "-",
+   "start": 64.687,
+   "end": 66.687,
+   "sfx": []
+  },
+  {
+   "id": "23",
+   "cam": "A",
+   "who": "theo",
+   "start": 66.687,
+   "say": "If you start thinking about edge cases, you're not focused on shipping this beautiful demo.",
+   "speech_start": 66.987,
+   "speech_end": 73.628,
+   "end": 74.128,
+   "sfx": []
+  },
+  {
+   "id": "24",
+   "cam": "A",
+   "who": "theo",
+   "start": 74.128,
+   "say": "It undermines the purity of the vibe.",
+   "speech_start": 74.428,
+   "speech_end": 76.768,
+   "end": 77.268,
+   "sfx": []
+  },
+  {
+   "id": "25",
+   "cam": "D",
+   "who": "-",
+   "start": 77.268,
+   "end": 81.268,
+   "sfx": []
+  },
+  {
+   "id": "26",
+   "cam": "B",
+   "who": "dana",
+   "start": 81.268,
+   "say": "How many paying customers do you have?",
+   "speech_start": 81.568,
+   "speech_end": 83.531,
+   "end": 84.031,
+   "sfx": []
+  },
+  {
+   "id": "27",
+   "cam": "A",
+   "who": "theo",
+   "start": 84.031,
+   "say": "Across all four companies?",
+   "speech_start": 84.331,
+   "speech_end": 86.268,
+   "end": 86.768,
+   "sfx": []
+  },
+  {
+   "id": "28",
+   "cam": "B",
+   "who": "dana",
+   "start": 86.768,
+   "say": "Yes. In total.",
+   "speech_start": 87.368,
+   "speech_end": 88.656,
+   "end": 89.156,
+   "sfx": []
+  },
+  {
+   "id": "29",
+   "cam": "A",
+   "who": "theo",
+   "start": 89.156,
+   "say": "Should we meditate again?",
+   "speech_start": 92.156,
+   "speech_end": 93.875,
+   "end": 94.375,
+   "sfx": []
+  },
+  {
+   "id": "30",
+   "cam": "C",
+   "who": "theo",
+   "start": 94.375,
+   "say": "That's five.",
+   "speech_start": 96.875,
+   "speech_end": 97.943,
+   "end": 98.743,
+   "sfx": [
+    {
+     "name": "chime",
+     "at": 96.375
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "cam": "C",
+   "who": "dana",
+   "start": 98.743,
+   "say": "Customers?",
+   "speech_start": 99.143,
+   "speech_end": 100.07,
+   "end": 100.67,
+   "sfx": []
+  },
+  {
+   "id": "32",
+   "cam": "C",
+   "who": "theo",
+   "start": 100.67,
+   "say": "No, Companies.",
+   "speech_start": 100.97,
+   "speech_end": 102.243,
+   "end": 104.743,
+   "sfx": []
+  },
+  {
+   "id": "33",
+   "cam": "C",
+   "who": "-",
+   "start": 104.743,
+   "end": 109.743,
+   "sfx": []
+  }
+ ]
+}

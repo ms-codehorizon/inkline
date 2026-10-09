@@ -1,0 +1,12 @@
+.DS_Store
+engine/voices/
+**/__pycache__/
+.env
+_to_delete/
+videos/*/stages/02-voice/output/clips/
+videos/*/stages/02-voice/output/variants/
+videos/*/stages/04-render/output/*.mp4
+videos/*/stages/02-voice/output/*.wav
+.venv/
+videos/*/stages/03-storyboard/output/words.json
+videos/*/stages/05-post/output/post.md

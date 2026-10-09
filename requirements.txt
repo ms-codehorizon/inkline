@@ -1,0 +1,7 @@
+# core: drawing, audio maths, voice stage
+pillow>=10
+numpy>=1.26
+# listen-back check in the voice stage (downloads a small model on first run)
+faster-whisper>=1.0
+# free local voices, used only when a character has no provider=elevenlabs
+piper-tts>=1.2
