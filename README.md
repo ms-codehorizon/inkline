@@ -103,6 +103,26 @@ Per line in `script.md`, when a word or a delivery is off:
 
 Every clip is transcribed back and compared to the script. Mismatches are listed in `stages/02-voice/output/voices.md`.
 
+## Characters and rooms
+
+Characters and rooms are drawing code, not images. That is what keeps every video in the same hand, and it is the one part of the factory that a description alone cannot produce: someone (you, or an agent) writes the strokes, looks at the result, and adjusts.
+
+A cast is a pair of files in `library/cast/`:
+- `<name>.py` exposes `CHARACTERS`, a dict of `name -> draw(canvas, state)` functions, each drawing that character facing right with the neck base at (0, 0), and `DEFAULT_FACE`, the resting look per character. `state` carries `eyes`, `brows`, `mouth`, `head`, `hands`, plus `talk`, `blink` and `breath`, which the renderer drives. A `hover_hand(canvas)` is optional (camera D).
+- `<name>.md` is the character sheet: who they are, never-do rules, and a vocabulary table listing every value of eyes, brows, mouth, head and hands the code supports. Agents and `shots.py` check directions against this table, so it has to match the code.
+
+A room is one file in `library/rooms/` exposing `CAMERAS`: camera letter to `{draw, seats, about}`, where `draw(canvas, lit=False)` draws the room from that angle and `seats` maps `left` and `right` to `(x, y, scale, flip)` for the characters.
+
+Drawing uses `engine/ink.py`: `stroke`, `ellipse`, `fill`, `hatch`, `text`, `push_clip`, all with the wobble and boil applied for you. The quickest start is to copy `founder_interview.py` and `loft_office.py` and change them.
+
+To look at a cast in a room before any video exists:
+
+```
+python3 engine/preview.py <cast> <room> /tmp/look     # one still per close-up camera
+```
+
+Never change a cast or room that a video already uses; every re-render of that video would change with it. New look, new file, and `cast:` or `room:` in the new video's `video.md` points at it.
+
 ## Layout
 
 ```
